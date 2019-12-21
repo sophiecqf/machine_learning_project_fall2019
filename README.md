@@ -1,1 +1,1 @@
-# projects
+# Machine Learning Course Project Fall 2019
